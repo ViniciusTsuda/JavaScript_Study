@@ -1,0 +1,5 @@
+{
+    "editor.fontSize": 16,
+    "editor.inlineSuggest.edits.allowCodeShifting": "always",
+    "editor.inlineSuggest.enabled": false
+}
