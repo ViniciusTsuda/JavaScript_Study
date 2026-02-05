@@ -35,3 +35,6 @@ console.log(algunsPilotos1)
 
 const algunsPilotos2 = pilotos.slice(2, 4) //a partir do indíce 2 até o índice 3 (índice 4 não entra)
 console.log(algunsPilotos2)
+
+console.log("Olá mundo")
+
