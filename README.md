@@ -4,6 +4,8 @@ Repositório criado com o objetivo de estudar, praticar e consolidar conceitos f
 
 Este repositório reúne exemplos práticos, exercícios e pequenos testes desenvolvidos durante o processo de estudo da linguagem.
 
+OBS: O estudo começa com a Seção 5 por praticidade minha, por compreender internamente que o estudo das seções anteriores já estavam bem sólidas na minha cabeça.
+
 ---
 
 ## Tecnologias utilizadas
