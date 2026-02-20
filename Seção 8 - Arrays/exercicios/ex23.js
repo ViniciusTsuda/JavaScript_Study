@@ -28,7 +28,7 @@ console.log(buscarPalavrasSemelhantes('pro', ['profissional', 'programador', 'ca
 
 /*
 Índice:  0 1 2 3 4 5 6 
-Texto:   a s s o p r o (tamanho 7) - 3 (pro) = 4
+Texto:   a s s o r p o (tamanho 7) - 3 (pro) = 4
          ^ ^ ^          ✔️
            ^ ^ ^        ✔️
              ^ ^ ^      ✔️
