@@ -1,6 +1,8 @@
 # Estudo de Desenvolvimento Web Moderno com JavaScript
 
-Bem-vindo ao meu estudo abrangente de **Desenvolvimento Web Moderno com JavaScript**! Este é um repositório que documenta minha jornada de aprendizado através de quase 600 aulas divididas em 33 capítulos com mais de 85 horas de conteúdo. Além dos fundamentos e vários exercícios, este estudo inclui diversos projetos com as principais tecnologias da atualidade com aplicação na vida real, me ensinando a ser um desenvolvedor Web desde o básico até ao nível profissional avançado.
+Bem-vindo ao meu estudo abrangente de **Desenvolvimento Web Moderno com JavaScript**! Este é um repositório que segue minha jornada de aprendizado através de quase 600 aulas divididas em 33 capítulos com mais de 85 horas de conteúdo. Além dos fundamentos e vários exercícios, este estudo inclui diversos projetos com as principais tecnologias da atualidade com aplicação na vida real, me ensinando a ser um desenvolvedor Web desde o básico até ao nível profissional avançado. 
+O repositório ainda está sendo atualizado conforme meus estudos, então algumas seções e capítulos podem estar ausentes ainda por não ter chegado naquele ponto, e algumas coisas podem não parecer claras ou cronológicamente certas, isto porque como se trata de um estudo para minha pessoa, algumas decisões de design podem ter ficado de difícil compreensão para os outros.
+OBS: O estudo começa com a Seção 5 por praticidade minha, por compreender internamente que o estudo das seções anteriores já estavam bem sólidas na minha cabeça.
 
 ## O que está sendo estudado
 
